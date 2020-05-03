@@ -1,0 +1,3 @@
+
+Pour produire l'executable : gcc *.c -o appli_A
+

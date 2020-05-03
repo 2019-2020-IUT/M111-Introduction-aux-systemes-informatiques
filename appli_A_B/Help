@@ -1,0 +1,4 @@
+
+Pour produire l'executable appli_A : gcc *A*.c -o appli_A
+Pour produire l'executable appli_B : gcc *B*.c fichier_A3.c -o appli_B
+
